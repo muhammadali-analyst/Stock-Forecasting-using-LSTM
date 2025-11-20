@@ -1,4 +1,4 @@
-LSTM Model – Sequence Prediction Project
+LSTM Model – Stock Prediction Project
 
 A data science project demonstrating prediction using an LSTM neural network, fully built and trained in Google Colab.
 
